@@ -18,7 +18,7 @@
            
             <th>Oluşturan Kullanıcı Adı:</th>
   
-            <!-- Gerekirse diğer sütunlar -->
+          
           </tr>
         </thead>
         <tbody>
@@ -33,7 +33,7 @@
             <td>{{ OfferDetail.modifiedTime }}</td>
             <td>{{ OfferDetail.userId }}</td>
             <td>{{ OfferDetail.userName }}</td>
-            <!-- Gerekirse diğer sütunlar -->
+    
           </tr>
         </tbody>
       </table>

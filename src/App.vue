@@ -1,7 +1,9 @@
 <template>
 <div>
   <AppNavbar/>
-
+<div>
+  <h1 style="text-align: center">OfferManagmentSystem</h1>
+</div>
   <router-view/>
 </div>
 </template>

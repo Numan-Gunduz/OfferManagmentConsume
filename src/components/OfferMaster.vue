@@ -14,7 +14,7 @@
             <th>Teklif Durumu</th>
           >
   
-            <!-- Gerekirse diğer sütunlar -->
+    
           </tr>
         </thead>
         <tbody>
@@ -27,7 +27,7 @@
             <td>{{ offer.customerName }}</td>
             <td>{{ offer.userName }}</td>
             <td>{{ offer.statusName }}</td>
-            <!-- Gerekirse diğer sütunlar -->
+           
           </tr>
         </tbody>
       </table>

@@ -14,7 +14,7 @@
             <th>Değiştirilme Zamanı</th>
         
   
-            <!-- Gerekirse diğer sütunlar -->
+     
           </tr>
         </thead>
         <tbody>
@@ -28,7 +28,7 @@
             <td>{{ user.createdTime }}</td>
             <td>{{ user.modifiedTime }}</td>
          
-            <!-- Gerekirse diğer sütunlar -->
+           
           </tr>
         </tbody>
       </table>

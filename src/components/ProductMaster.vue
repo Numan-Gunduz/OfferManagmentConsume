@@ -12,7 +12,6 @@
           <th>Değiştirilme Zamanı</th>
           <th>Oluşturan Kullanıcı Adı</th>
 
-          <!-- Gerekirse diğer sütunlar -->
         </tr>
       </thead>
       <tbody>
@@ -24,8 +23,7 @@
           <td>{{ product.createdTime }}</td>
           <td>{{ product.modifiedTime }}</td>
           <td>{{ product.userName }}</td>
-         
-          <!-- Gerekirse diğer sütunlar -->
+        
         </tr>
       </tbody>
     </table>

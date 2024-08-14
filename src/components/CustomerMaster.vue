@@ -13,7 +13,6 @@
           <th>Oluşturulma Zamanı</th>
           <th>Oluşturan Kullanıcı:</th>
 
-          <!-- Gerekirse diğer sütunlar -->
         </tr>
       </thead>
       <tbody>
@@ -26,7 +25,7 @@
           <td>{{ customer.address }}</td>
           <td>{{ customer.createdTime }}</td>
           <td>{{ customer.userName }}</td>
-          <!-- Gerekirse diğer sütunlar -->
+     
         </tr>
       </tbody>
     </table>
